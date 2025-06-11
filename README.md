@@ -1,6 +1,6 @@
-# 📘 FE MPR
+# 📘 STUDYSTREAM CLONE
 
-**FE MPR** is a modern, responsive landing page designed to promote a collaborative learning platform. Built using **HTML**, **Tailwind CSS**, and **JavaScript**, the webpage provides a clean, engaging user experience aimed at encouraging users to register, join study rooms, and connect with the community.
+ It is a modern, responsive landing page designed to promote a collaborative learning platform. Built using **HTML**, **Tailwind CSS**, and **JavaScript**, the webpage provides a clean, engaging user experience aimed at encouraging users to register, join study rooms, and connect with the community.
 
 ---
 
